@@ -1,6 +1,7 @@
 # testapi
 
-A new Flutter project.
+Flutter ile (IP:Port) değerini bildiğimiz robotun API kontrolü için kodlar.
+
 
 ## Getting Started
 
