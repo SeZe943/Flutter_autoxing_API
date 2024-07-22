@@ -1,6 +1,7 @@
 # testapi
 
 Flutter ile (IP:Port) değerini bildiğimiz robotun API kontrolü için kodlar.
+projeyi çalıştırmak için lib klasöründeki main.dart dosyasını çalıştırınız.
 
 
 ## Getting Started
